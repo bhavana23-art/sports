@@ -1,0 +1,1 @@
+badminton: racket,shuttlecock,net
